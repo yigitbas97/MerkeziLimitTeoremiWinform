@@ -1,0 +1,20 @@
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\bin\Debug\MerkeziLimitTeoremi.exe.config
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\bin\Debug\MerkeziLimitTeoremi.exe
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\bin\Debug\MerkeziLimitTeoremi.pdb
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.csprojAssemblyReference.cache
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.Form1.resources
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.Properties.Resources.resources
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.csproj.GenerateResource.cache
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.exe
+C:\Users\Yigit\Desktop\c#\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.pdb
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\bin\Debug\MerkeziLimitTeoremi.exe.config
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\bin\Debug\MerkeziLimitTeoremi.exe
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\bin\Debug\MerkeziLimitTeoremi.pdb
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.csprojAssemblyReference.cache
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.Form1.resources
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.exe
+D:\Bilgisayar Mühendisliği\Dersler\Veri Madenciliği\MerkeziLimitTeoremi\MerkeziLimitTeoremi\obj\Debug\MerkeziLimitTeoremi.pdb
